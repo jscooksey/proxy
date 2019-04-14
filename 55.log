@@ -1,0 +1,442 @@
+{"log":" * Serving Flask app \"webpage\" (lazy loading)\n","stream":"stdout","time":"2019-03-03T11:42:52.023479834Z"}
+{"log":" * Environment: production\n","stream":"stdout","time":"2019-03-03T11:42:52.023928896Z"}
+{"log":"   WARNING: Do not use the development server in a production environment.\n","stream":"stdout","time":"2019-03-03T11:42:52.024316194Z"}
+{"log":"   Use a production WSGI server instead.\n","stream":"stdout","time":"2019-03-03T11:42:52.024619579Z"}
+{"log":" * Debug mode: on\n","stream":"stdout","time":"2019-03-03T11:42:52.024896108Z"}
+{"log":" * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)\n","stream":"stderr","time":"2019-03-03T11:42:52.051660257Z"}
+{"log":" * Restarting with stat\n","stream":"stderr","time":"2019-03-03T11:42:52.053074376Z"}
+{"log":" * Debugger is active!\n","stream":"stderr","time":"2019-03-03T11:42:52.249665727Z"}
+{"log":" * Debugger PIN: 915-106-356\n","stream":"stderr","time":"2019-03-03T11:42:52.253225015Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 11:43:13] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T11:43:13.701648112Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 11:43:13] \"GET /static/main.css HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T11:43:13.755387868Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 11:43:13] \"GET /static/favicon.ico HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T11:43:13.97420374Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 11:43:23] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T11:43:23.190924529Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 11:43:24] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T11:43:24.731600884Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 11:43:40] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T11:43:40.978447729Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 11:44:09] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T11:44:09.790509026Z"}
+{"log":" * Serving Flask app \"webpage\" (lazy loading)\n","stream":"stdout","time":"2019-03-03T11:50:35.348445639Z"}
+{"log":" * Environment: production\n","stream":"stdout","time":"2019-03-03T11:50:35.348735866Z"}
+{"log":"   WARNING: Do not use the development server in a production environment.\n","stream":"stdout","time":"2019-03-03T11:50:35.348931195Z"}
+{"log":"   Use a production WSGI server instead.\n","stream":"stdout","time":"2019-03-03T11:50:35.349126288Z"}
+{"log":" * Debug mode: on\n","stream":"stdout","time":"2019-03-03T11:50:35.349313892Z"}
+{"log":" * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)\n","stream":"stderr","time":"2019-03-03T11:50:35.36642921Z"}
+{"log":" * Restarting with stat\n","stream":"stderr","time":"2019-03-03T11:50:35.367498238Z"}
+{"log":" * Debugger is active!\n","stream":"stderr","time":"2019-03-03T11:50:35.563259174Z"}
+{"log":" * Debugger PIN: 915-106-356\n","stream":"stderr","time":"2019-03-03T11:50:35.566130146Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 11:52:02] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T11:52:02.395922149Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 11:54:08] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T11:54:08.560377705Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 11:54:09] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T11:54:09.707666322Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 12:34:13] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T12:34:13.643504043Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 12:34:20] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T12:34:20.053751313Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 12:34:21] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T12:34:21.463814267Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 12:34:32] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T12:34:32.95096542Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 12:34:34] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T12:34:34.887927702Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 19:32:13] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T19:32:13.321463047Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 19:32:17] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T19:32:17.344396678Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 19:32:43] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T19:32:43.488572868Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 19:33:13] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T19:33:13.91804557Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 19:33:26] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T19:33:26.497728914Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 19:36:01] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T19:36:01.868205781Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 21:43:04] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-03T21:43:04.203422034Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 21:43:05] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T21:43:05.381694401Z"}
+{"log":"172.20.0.2 - - [03/Mar/2019 23:13:17] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-03T23:13:17.626869229Z"}
+{"log":"172.20.0.2 - - [04/Mar/2019 08:57:53] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-04T08:57:53.646502195Z"}
+{"log":"172.20.0.2 - - [04/Mar/2019 09:27:11] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-04T09:27:11.0528446Z"}
+{"log":"172.20.0.2 - - [04/Mar/2019 09:27:11] \"GET /static/main.css HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-04T09:27:11.118238618Z"}
+{"log":"172.20.0.2 - - [04/Mar/2019 09:27:16] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-04T09:27:16.264183055Z"}
+{"log":"172.20.0.2 - - [04/Mar/2019 09:27:17] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-04T09:27:17.671177186Z"}
+{"log":"172.20.0.2 - - [04/Mar/2019 09:28:06] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-04T09:28:06.216827743Z"}
+{"log":"172.20.0.2 - - [04/Mar/2019 17:50:11] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-04T17:50:11.943497573Z"}
+{"log":"172.20.0.2 - - [04/Mar/2019 17:50:12] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-04T17:50:12.706719391Z"}
+{"log":"172.20.0.2 - - [04/Mar/2019 17:50:16] \"GET /static/main.css HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-04T17:50:16.765297628Z"}
+{"log":"172.20.0.2 - - [04/Mar/2019 18:10:54] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-04T18:10:54.008553796Z"}
+{"log":"172.20.0.2 - - [04/Mar/2019 19:50:02] \"GET /static/main.css HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-04T19:50:02.203125052Z"}
+{"log":"172.20.0.2 - - [05/Mar/2019 02:29:18] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-05T02:29:18.772507793Z"}
+{"log":"172.20.0.2 - - [05/Mar/2019 03:24:27] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-05T03:24:27.828600782Z"}
+{"log":"172.20.0.2 - - [05/Mar/2019 03:24:35] \"GET /static/main.css HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-05T03:24:35.00414812Z"}
+{"log":"172.20.0.2 - - [05/Mar/2019 08:56:40] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-05T08:56:40.744380016Z"}
+{"log":"172.20.0.2 - - [05/Mar/2019 08:56:41] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-05T08:56:41.011435097Z"}
+{"log":"172.20.0.2 - - [05/Mar/2019 09:23:19] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-05T09:23:19.414929647Z"}
+{"log":"172.20.0.2 - - [05/Mar/2019 10:22:58] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-05T10:22:58.754580251Z"}
+{"log":"172.20.0.2 - - [05/Mar/2019 14:36:42] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-05T14:36:42.138971352Z"}
+{"log":"172.20.0.2 - - [05/Mar/2019 20:00:43] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-05T20:00:43.192035115Z"}
+{"log":"172.20.0.2 - - [05/Mar/2019 22:32:23] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-05T22:32:23.398541934Z"}
+{"log":"172.20.0.2 - - [05/Mar/2019 22:32:24] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-05T22:32:24.111663954Z"}
+{"log":"172.20.0.2 - - [06/Mar/2019 06:40:24] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-06T06:40:24.366340168Z"}
+{"log":"172.20.0.2 - - [06/Mar/2019 18:03:17] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-06T18:03:17.299797826Z"}
+{"log":"172.20.0.2 - - [06/Mar/2019 18:03:21] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-06T18:03:21.71569047Z"}
+{"log":"172.20.0.2 - - [06/Mar/2019 18:03:25] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-06T18:03:25.542970944Z"}
+{"log":"172.20.0.2 - - [07/Mar/2019 09:48:19] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-07T09:48:19.852682356Z"}
+{"log":"172.20.0.2 - - [07/Mar/2019 09:48:19] \"GET /static/main.css HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-07T09:48:19.918322586Z"}
+{"log":"172.20.0.2 - - [07/Mar/2019 10:11:04] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-07T10:11:04.160096701Z"}
+{"log":"172.20.0.2 - - [07/Mar/2019 10:11:04] \"GET /static/jred.svg HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-07T10:11:04.206329557Z"}
+{"log":"172.20.0.2 - - [07/Mar/2019 10:11:13] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-07T10:11:13.773162652Z"}
+{"log":"172.20.0.2 - - [07/Mar/2019 10:11:16] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-07T10:11:16.659027562Z"}
+{"log":" * Detected change in '/usr/src/app/webpage.py', reloading\n","stream":"stderr","time":"2019-03-07T10:34:48.315393775Z"}
+{"log":" * Restarting with stat\n","stream":"stderr","time":"2019-03-07T10:34:48.390454145Z"}
+{"log":" * Debugger is active!\n","stream":"stderr","time":"2019-03-07T10:34:48.795806081Z"}
+{"log":" * Debugger PIN: 915-106-356\n","stream":"stderr","time":"2019-03-07T10:34:48.801767564Z"}
+{"log":"172.20.0.2 - - [07/Mar/2019 10:34:54] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-07T10:34:54.682357383Z"}
+{"log":"172.20.0.2 - - [07/Mar/2019 10:34:58] \"GET /proxy HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-07T10:34:58.323052075Z"}
+{"log":"172.20.0.2 - - [07/Mar/2019 10:35:02] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-07T10:35:02.670926255Z"}
+{"log":"172.20.0.2 - - [07/Mar/2019 10:35:04] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-07T10:35:04.431357261Z"}
+{"log":"172.20.0.2 - - [07/Mar/2019 10:35:06] \"GET /proxy HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-07T10:35:06.015105876Z"}
+{"log":"172.20.0.2 - - [07/Mar/2019 10:35:51] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-07T10:35:51.710967934Z"}
+{"log":"172.20.0.2 - - [07/Mar/2019 10:35:59] \"GET /proxy HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-07T10:35:59.976777478Z"}
+{"log":"172.20.0.2 - - [07/Mar/2019 10:36:01] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-07T10:36:01.306862787Z"}
+{"log":"172.20.0.2 - - [07/Mar/2019 16:35:57] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-07T16:35:57.475439353Z"}
+{"log":"172.20.0.2 - - [08/Mar/2019 04:09:36] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-08T04:09:36.360699591Z"}
+{"log":"172.20.0.2 - - [08/Mar/2019 04:09:36] \"GET /static/jred.svg HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-08T04:09:36.41466495Z"}
+{"log":"172.20.0.2 - - [08/Mar/2019 04:09:36] \"GET /static/main.css HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-08T04:09:36.41503217Z"}
+{"log":"172.20.0.2 - - [08/Mar/2019 04:09:37] \"GET /static/favicon.ico HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-08T04:09:37.146673659Z"}
+{"log":"172.20.0.2 - - [08/Mar/2019 04:09:40] \"GET /proxy HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-08T04:09:40.447259811Z"}
+{"log":"172.20.0.2 - - [08/Mar/2019 12:17:52] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-08T12:17:52.902758594Z"}
+{"log":"172.20.0.2 - - [08/Mar/2019 14:59:40] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-08T14:59:40.888283511Z"}
+{"log":"172.20.0.2 - - [08/Mar/2019 22:36:42] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-08T22:36:42.534230101Z"}
+{"log":"172.20.0.2 - - [08/Mar/2019 22:36:43] \"GET /.well-known/assetlinks.json HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-08T22:36:43.351169398Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 00:44:14] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T00:44:14.141923257Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 02:10:31] \"GET /static/jred.svg HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T02:10:31.632608451Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 02:21:44] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T02:21:44.469122875Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 02:24:52] \"GET /proxy HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T02:24:52.61825932Z"}
+{"log":" * Detected change in '/usr/src/app/webpage.py', reloading\n","stream":"stderr","time":"2019-03-09T04:37:52.388795634Z"}
+{"log":" * Restarting with stat\n","stream":"stderr","time":"2019-03-09T04:37:52.467468818Z"}
+{"log":" * Debugger is active!\n","stream":"stderr","time":"2019-03-09T04:37:52.830835132Z"}
+{"log":" * Debugger PIN: 915-106-356\n","stream":"stderr","time":"2019-03-09T04:37:52.836049384Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 04:38:21] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T04:38:21.462343912Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 04:38:21] \"GET /static/jred.svg HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T04:38:21.533245646Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 04:38:21] \"GET /static/favicon.ico HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T04:38:21.729110954Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 04:38:25] \"GET /projects/proxy HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T04:38:25.266936197Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 04:38:27] \"GET /projects/webpage HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T04:38:27.156694565Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 04:38:29] \"GET /projects/iotenviro HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T04:38:29.237942212Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 04:38:31] \"GET /projects/restapi HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T04:38:31.22217082Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 04:38:32] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T04:38:32.404191673Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 04:38:33] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T04:38:33.891790556Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 04:38:45] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T04:38:45.59574603Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 04:40:32] \"GET /projects/proxy HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T04:40:32.439891645Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 04:40:35] \"GET /projects/webpage HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T04:40:35.728739206Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 04:40:37] \"GET /projects/iotenviro HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T04:40:37.399801053Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 04:40:39] \"GET /projects/restapi HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T04:40:39.332779259Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 04:40:41] \"GET /projects/proxy HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T04:40:41.89202383Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 04:40:58] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T04:40:58.616371503Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 04:41:01] \"GET /projects/webpage HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T04:41:01.346041503Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 04:41:03] \"GET /projects/iotenviro HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T04:41:03.627182365Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 22:57:49] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T22:57:49.234928Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 22:57:49] \"GET /static/jred.svg HTTP/1.1\" 304 -\n","stream":"stderr","time":"2019-03-09T22:57:49.344536864Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 22:57:53] \"GET /projects/proxy HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T22:57:53.826796286Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 22:58:03] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T22:58:03.795069799Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 22:58:09] \"GET /projects/proxy HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T22:58:09.437981381Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 22:58:17] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T22:58:17.709748036Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 23:03:36] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-09T23:03:36.140529105Z"}
+{"log":"172.20.0.2 - - [09/Mar/2019 23:03:38] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-09T23:03:38.827170615Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 05:43:30] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T05:43:30.754099698Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 05:43:30] \"GET /static/jred.svg HTTP/1.1\" 304 -\n","stream":"stderr","time":"2019-03-10T05:43:30.961164224Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 05:45:37] \"GET /projects/proxy HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T05:45:37.385848992Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 05:45:39] \"GET /projects/webpage HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T05:45:39.571435952Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 05:46:06] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T05:46:06.327803404Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 05:49:34] \"GET /projects/proxy HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T05:49:34.464777523Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 05:49:46] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T05:49:46.25271538Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 09:07:01] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-10T09:07:01.428841377Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 09:07:03] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T09:07:03.151379998Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 21:39:51] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-10T21:39:51.604117484Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 21:39:53] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T21:39:53.335798975Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 21:39:54] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T21:39:54.060189301Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 21:39:59] \"GET /static/jred.svg HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T21:39:59.759123486Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 21:40:36] \"GET /projects HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T21:40:36.114662423Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 21:41:04] \"GET /projects/proxy HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T21:41:04.473106759Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 21:41:59] \"GET /projects/restapi HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T21:41:59.766222173Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 21:42:03] \"GET /static/jred.svg HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T21:42:03.314323063Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 21:42:46] \"GET /projects/webpage HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T21:42:46.642010043Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 21:43:46] \"GET /projects/iotenviro HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T21:43:46.837908605Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 22:04:14] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T22:04:14.174746203Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 22:10:14] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T22:10:14.014455175Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 22:10:45] \"GET /projects/proxy HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T22:10:45.032968453Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 22:10:48] \"GET /projects HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T22:10:48.271668544Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 22:10:54] \"GET /projects/restapi HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T22:10:54.600329253Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 22:11:02] \"GET /projects/webpage HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T22:11:02.852299191Z"}
+{"log":"172.20.0.2 - - [10/Mar/2019 22:50:39] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-10T22:50:39.818856109Z"}
+{"log":"172.20.0.2 - - [11/Mar/2019 02:01:31] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-11T02:01:31.768573084Z"}
+{"log":"172.20.0.2 - - [11/Mar/2019 06:52:20] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-11T06:52:20.629833209Z"}
+{"log":"172.20.0.2 - - [11/Mar/2019 06:52:25] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-11T06:52:25.36942676Z"}
+{"log":"172.20.0.2 - - [11/Mar/2019 06:52:29] \"GET /LLPTZ/ HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-11T06:52:29.272243236Z"}
+{"log":"172.20.0.2 - - [11/Mar/2019 08:11:31] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-11T08:11:31.222646007Z"}
+{"log":"172.20.0.2 - - [11/Mar/2019 08:21:44] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-11T08:21:44.100524466Z"}
+{"log":"172.20.0.2 - - [11/Mar/2019 08:21:44] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-11T08:21:44.281932824Z"}
+{"log":"172.20.0.2 - - [11/Mar/2019 09:21:49] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-11T09:21:49.784759289Z"}
+{"log":"172.20.0.2 - - [11/Mar/2019 09:36:18] \"GET /projects/iotenviro HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-11T09:36:18.692864498Z"}
+{"log":"172.20.0.2 - - [11/Mar/2019 10:10:50] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-11T10:10:50.812834025Z"}
+{"log":"172.20.0.2 - - [11/Mar/2019 10:10:54] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-11T10:10:54.643662788Z"}
+{"log":"172.20.0.2 - - [11/Mar/2019 10:53:00] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-11T10:53:00.523298524Z"}
+{"log":"172.20.0.2 - - [11/Mar/2019 10:53:01] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-11T10:53:01.248519217Z"}
+{"log":"172.20.0.2 - - [11/Mar/2019 15:34:58] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-11T15:34:58.247044144Z"}
+{"log":"172.20.0.2 - - [11/Mar/2019 15:34:58] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-11T15:34:58.846841576Z"}
+{"log":"172.20.0.2 - - [11/Mar/2019 15:35:01] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-11T15:35:01.052164806Z"}
+{"log":"172.20.0.2 - - [11/Mar/2019 17:16:30] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-11T17:16:30.642252865Z"}
+{"log":"172.20.0.2 - - [11/Mar/2019 19:57:13] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-11T19:57:13.383832088Z"}
+{"log":"172.20.0.2 - - [11/Mar/2019 19:57:15] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-11T19:57:15.087825413Z"}
+{"log":"172.20.0.2 - - [11/Mar/2019 20:13:56] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-11T20:13:56.209653684Z"}
+{"log":"172.20.0.2 - - [12/Mar/2019 05:11:00] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-12T05:11:00.038925991Z"}
+{"log":"172.20.0.2 - - [12/Mar/2019 05:11:00] \"GET /static/jred.svg HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-12T05:11:00.087510643Z"}
+{"log":"172.20.0.2 - - [12/Mar/2019 05:11:03] \"GET /projects/proxy HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-12T05:11:03.024948724Z"}
+{"log":"172.20.0.2 - - [12/Mar/2019 05:11:04] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-12T05:11:04.825114295Z"}
+{"log":"172.20.0.2 - - [12/Mar/2019 14:44:17] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-12T14:44:17.191216606Z"}
+{"log":"172.20.0.2 - - [12/Mar/2019 14:44:19] \"GET /projects/webpage HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-12T14:44:19.981783263Z"}
+{"log":"172.20.0.2 - - [12/Mar/2019 23:14:48] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-12T23:14:48.146384742Z"}
+{"log":"172.20.0.2 - - [12/Mar/2019 23:14:50] \"GET /projects/restapi HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-12T23:14:50.893503194Z"}
+{"log":"172.20.0.2 - - [13/Mar/2019 02:22:54] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-13T02:22:54.648715637Z"}
+{"log":"172.20.0.2 - - [13/Mar/2019 02:22:54] \"GET /static/jred.svg HTTP/1.1\" 304 -\n","stream":"stderr","time":"2019-03-13T02:22:54.679970933Z"}
+{"log":"172.20.0.2 - - [13/Mar/2019 02:22:57] \"GET /projects/webpage HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-13T02:22:57.761412644Z"}
+{"log":"172.20.0.2 - - [13/Mar/2019 02:22:59] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-13T02:22:59.313036202Z"}
+{"log":"172.20.0.2 - - [13/Mar/2019 02:23:01] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-13T02:23:01.310618356Z"}
+{"log":"172.20.0.2 - - [13/Mar/2019 06:22:50] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-13T06:22:50.571631005Z"}
+{"log":"172.20.0.2 - - [13/Mar/2019 08:00:41] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-13T08:00:41.494782477Z"}
+{"log":"172.20.0.2 - - [13/Mar/2019 08:00:44] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-13T08:00:44.27183342Z"}
+{"log":"172.20.0.2 - - [13/Mar/2019 11:33:03] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-13T11:33:03.933689173Z"}
+{"log":"172.20.0.2 - - [13/Mar/2019 11:33:05] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-13T11:33:05.016505788Z"}
+{"log":"172.20.0.2 - - [13/Mar/2019 11:33:07] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-13T11:33:07.770215978Z"}
+{"log":"172.20.0.2 - - [14/Mar/2019 03:30:31] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-14T03:30:31.918840344Z"}
+{"log":"172.20.0.2 - - [14/Mar/2019 03:30:32] \"GET /.well-known/assetlinks.json HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-14T03:30:32.632409227Z"}
+{"log":"172.20.0.2 - - [14/Mar/2019 04:20:41] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-14T04:20:41.005132082Z"}
+{"log":"172.20.0.2 - - [14/Mar/2019 05:31:42] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-14T05:31:42.506840931Z"}
+{"log":"172.20.0.2 - - [14/Mar/2019 06:31:17] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-14T06:31:17.670240046Z"}
+{"log":"172.20.0.2 - - [14/Mar/2019 06:31:19] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-14T06:31:19.774410428Z"}
+{"log":"172.20.0.2 - - [14/Mar/2019 06:31:20] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-14T06:31:20.038862246Z"}
+{"log":"172.20.0.2 - - [14/Mar/2019 08:28:12] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-14T08:28:12.967498111Z"}
+{"log":"172.20.0.2 - - [14/Mar/2019 08:28:17] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-14T08:28:17.675086714Z"}
+{"log":"172.20.0.2 - - [14/Mar/2019 08:28:21] \"GET /SMahZ/ HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-14T08:28:21.571636499Z"}
+{"log":"172.20.0.2 - - [14/Mar/2019 09:24:56] \"GET /projects HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-14T09:24:56.720050852Z"}
+{"log":"172.20.0.2 - - [14/Mar/2019 14:04:56] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-14T14:04:56.487003231Z"}
+{"log":"172.20.0.2 - - [14/Mar/2019 15:25:07] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-14T15:25:07.874875383Z"}
+{"log":"172.20.0.2 - - [14/Mar/2019 15:35:05] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-14T15:35:05.839498699Z"}
+{"log":"172.20.0.2 - - [14/Mar/2019 18:20:55] \"HEAD / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-14T18:20:55.377011406Z"}
+{"log":"172.20.0.2 - - [14/Mar/2019 18:46:30] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-14T18:46:30.856572406Z"}
+{"log":"172.20.0.2 - - [14/Mar/2019 23:18:25] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-14T23:18:25.906396941Z"}
+{"log":"172.20.0.2 - - [15/Mar/2019 01:22:50] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-15T01:22:50.281835406Z"}
+{"log":"172.20.0.2 - - [15/Mar/2019 03:38:59] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-15T03:38:59.182794801Z"}
+{"log":"172.20.0.2 - - [15/Mar/2019 03:38:59] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-15T03:38:59.187842485Z"}
+{"log":"172.20.0.2 - - [15/Mar/2019 05:19:13] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-15T05:19:13.416046788Z"}
+{"log":"172.20.0.2 - - [15/Mar/2019 06:44:01] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-15T06:44:01.09686819Z"}
+{"log":"172.20.0.2 - - [15/Mar/2019 06:44:03] \"GET /projects/iotenviro HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-15T06:44:03.822469287Z"}
+{"log":"172.20.0.2 - - [15/Mar/2019 06:54:21] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-15T06:54:21.448067174Z"}
+{"log":"172.20.0.2 - - [15/Mar/2019 06:54:26] \"GET /XYUSZ/ HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-15T06:54:26.170279899Z"}
+{"log":"172.20.0.2 - - [15/Mar/2019 07:06:09] \"GET /projects/proxy HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-15T07:06:09.444497628Z"}
+{"log":"172.20.0.2 - - [15/Mar/2019 07:50:03] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-15T07:50:03.04899988Z"}
+{"log":"172.20.0.2 - - [15/Mar/2019 12:29:26] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-15T12:29:26.628154534Z"}
+{"log":"172.20.0.2 - - [15/Mar/2019 12:29:27] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-15T12:29:27.495843845Z"}
+{"log":"172.20.0.2 - - [15/Mar/2019 12:29:29] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-15T12:29:29.892613629Z"}
+{"log":"172.20.0.2 - - [15/Mar/2019 13:46:41] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-15T13:46:41.105713556Z"}
+{"log":"172.20.0.2 - - [15/Mar/2019 13:50:16] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-15T13:50:16.000811792Z"}
+{"log":"172.20.0.2 - - [15/Mar/2019 13:50:18] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-15T13:50:18.73778169Z"}
+{"log":"172.20.0.2 - - [15/Mar/2019 22:09:03] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-15T22:09:03.542443828Z"}
+{"log":"172.20.0.2 - - [15/Mar/2019 22:09:04] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-15T22:09:04.975795559Z"}
+{"log":"172.20.0.2 - - [15/Mar/2019 22:09:06] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-15T22:09:06.192340407Z"}
+{"log":"172.20.0.2 - - [15/Mar/2019 22:09:07] \"GET /projects HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-15T22:09:07.411088326Z"}
+{"log":"172.20.0.2 - - [16/Mar/2019 01:55:49] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-16T01:55:49.106613991Z"}
+{"log":"172.20.0.2 - - [16/Mar/2019 02:22:25] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-16T02:22:25.504887721Z"}
+{"log":"172.20.0.2 - - [17/Mar/2019 00:49:42] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-17T00:49:42.569174246Z"}
+{"log":"172.20.0.2 - - [17/Mar/2019 04:55:03] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-17T04:55:03.004935234Z"}
+{"log":"172.20.0.2 - - [17/Mar/2019 04:55:03] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-17T04:55:03.988292057Z"}
+{"log":"172.20.0.2 - - [17/Mar/2019 04:55:05] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-17T04:55:05.741395964Z"}
+{"log":"172.20.0.2 - - [17/Mar/2019 07:43:34] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-17T07:43:34.225763082Z"}
+{"log":"172.20.0.2 - - [17/Mar/2019 07:59:56] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-17T07:59:56.788836108Z"}
+{"log":"172.20.0.2 - - [17/Mar/2019 08:00:00] \"GET /WaVTZ/ HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-17T08:00:00.72997621Z"}
+{"log":"172.20.0.2 - - [17/Mar/2019 09:28:14] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-17T09:28:14.121400294Z"}
+{"log":"172.20.0.2 - - [17/Mar/2019 09:28:14] \"GET /static/jred.svg HTTP/1.1\" 304 -\n","stream":"stderr","time":"2019-03-17T09:28:14.182098064Z"}
+{"log":"172.20.0.2 - - [17/Mar/2019 09:28:14] \"GET /static/favicon.ico HTTP/1.1\" 304 -\n","stream":"stderr","time":"2019-03-17T09:28:14.349904105Z"}
+{"log":"172.20.0.2 - - [17/Mar/2019 09:28:18] \"GET /projects/iotenviro HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-17T09:28:18.168228182Z"}
+{"log":"172.20.0.2 - - [17/Mar/2019 09:28:48] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-17T09:28:48.083200586Z"}
+{"log":"172.20.0.2 - - [17/Mar/2019 14:07:23] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-17T14:07:23.398476047Z"}
+{"log":"172.20.0.2 - - [17/Mar/2019 14:07:24] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-17T14:07:24.111080142Z"}
+{"log":"172.20.0.2 - - [17/Mar/2019 17:58:46] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-17T17:58:46.766638262Z"}
+{"log":"172.20.0.2 - - [17/Mar/2019 21:12:49] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-17T21:12:49.927672723Z"}
+{"log":"172.20.0.2 - - [17/Mar/2019 23:04:49] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-17T23:04:49.62921496Z"}
+{"log":"172.20.0.2 - - [18/Mar/2019 06:08:59] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-18T06:08:59.387019065Z"}
+{"log":"172.20.0.2 - - [18/Mar/2019 06:08:59] \"GET /static/jred.svg HTTP/1.1\" 304 -\n","stream":"stderr","time":"2019-03-18T06:08:59.40921167Z"}
+{"log":"172.20.0.2 - - [18/Mar/2019 06:15:09] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-18T06:15:09.563967273Z"}
+{"log":"172.20.0.2 - - [18/Mar/2019 06:48:04] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-18T06:48:04.621059846Z"}
+{"log":"172.20.0.2 - - [18/Mar/2019 06:48:05] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-18T06:48:05.324097968Z"}
+{"log":"172.20.0.2 - - [18/Mar/2019 09:16:05] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-18T09:16:05.351505577Z"}
+{"log":"172.20.0.2 - - [18/Mar/2019 09:16:08] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-18T09:16:08.132639406Z"}
+{"log":"172.20.0.2 - - [18/Mar/2019 09:48:49] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-18T09:48:49.934927055Z"}
+{"log":"172.20.0.2 - - [19/Mar/2019 21:32:11] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-19T21:32:11.365017686Z"}
+{"log":"172.20.0.2 - - [19/Mar/2019 21:32:11] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-19T21:32:11.850310741Z"}
+{"log":"172.20.0.2 - - [19/Mar/2019 21:32:14] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-19T21:32:14.083952455Z"}
+{"log":"172.20.0.2 - - [20/Mar/2019 01:32:14] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-20T01:32:14.848261061Z"}
+{"log":"172.20.0.2 - - [20/Mar/2019 01:32:17] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-20T01:32:17.623652764Z"}
+{"log":"172.20.0.2 - - [20/Mar/2019 03:23:34] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-20T03:23:34.188057709Z"}
+{"log":"172.20.0.2 - - [21/Mar/2019 03:02:19] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-21T03:02:19.195425381Z"}
+{"log":"172.20.0.2 - - [21/Mar/2019 03:18:07] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-21T03:18:07.994579512Z"}
+{"log":"172.20.0.2 - - [21/Mar/2019 03:18:10] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-21T03:18:10.703623529Z"}
+{"log":"172.20.0.2 - - [21/Mar/2019 05:08:59] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-21T05:08:59.783072906Z"}
+{"log":"172.20.0.2 - - [21/Mar/2019 05:09:00] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-21T05:09:00.653072374Z"}
+{"log":"172.20.0.2 - - [21/Mar/2019 05:09:06] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-21T05:09:06.860794585Z"}
+{"log":"172.20.0.2 - - [21/Mar/2019 05:14:43] \"GET /static/jred.svg HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-21T05:14:43.343035736Z"}
+{"log":"172.20.0.2 - - [21/Mar/2019 05:14:56] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-21T05:14:56.658860206Z"}
+{"log":"172.20.0.2 - - [21/Mar/2019 12:16:28] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-21T12:16:28.413927146Z"}
+{"log":"172.20.0.2 - - [21/Mar/2019 13:23:38] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-21T13:23:38.160192892Z"}
+{"log":"172.20.0.2 - - [21/Mar/2019 13:23:39] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-21T13:23:39.371265107Z"}
+{"log":"172.20.0.2 - - [21/Mar/2019 18:34:27] \"GET /.well-known/assetlinks.json HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-21T18:34:27.104135169Z"}
+{"log":"172.20.0.2 - - [21/Mar/2019 21:43:23] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-21T21:43:23.735827382Z"}
+{"log":"172.20.0.2 - - [21/Mar/2019 21:43:26] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-21T21:43:26.423992516Z"}
+{"log":"172.20.0.2 - - [22/Mar/2019 00:14:41] \"GET /LLPTZ/ HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-22T00:14:41.762819293Z"}
+{"log":"172.20.0.2 - - [22/Mar/2019 03:14:36] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-22T03:14:36.010243014Z"}
+{"log":"172.20.0.2 - - [22/Mar/2019 03:14:38] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-22T03:14:38.709330774Z"}
+{"log":"172.20.0.2 - - [22/Mar/2019 05:16:45] \"GET /projects HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-22T05:16:45.120860075Z"}
+{"log":"172.20.0.2 - - [22/Mar/2019 07:19:28] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-22T07:19:28.494586581Z"}
+{"log":"172.20.0.2 - - [22/Mar/2019 07:19:29] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-22T07:19:29.328329909Z"}
+{"log":"172.20.0.2 - - [22/Mar/2019 10:38:56] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-22T10:38:56.423613492Z"}
+{"log":"172.20.0.2 - - [22/Mar/2019 15:23:58] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-22T15:23:58.96607279Z"}
+{"log":"172.20.0.2 - - [22/Mar/2019 15:24:01] \"GET /projects/proxy HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-22T15:24:01.685784893Z"}
+{"log":"172.20.0.2 - - [22/Mar/2019 15:36:39] \"GET /projects/restapi HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-22T15:36:39.982737395Z"}
+{"log":"172.20.0.2 - - [22/Mar/2019 21:20:16] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-22T21:20:16.921327649Z"}
+{"log":"172.20.0.2 - - [22/Mar/2019 21:20:17] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-22T21:20:17.670160313Z"}
+{"log":"172.20.0.2 - - [23/Mar/2019 02:21:53] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-23T02:21:53.188847548Z"}
+{"log":"172.20.0.2 - - [23/Mar/2019 02:21:53] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-23T02:21:53.979390004Z"}
+{"log":"172.20.0.2 - - [23/Mar/2019 02:21:55] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-23T02:21:55.764497606Z"}
+{"log":"172.20.0.2 - - [23/Mar/2019 14:11:40] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-23T14:11:40.294698532Z"}
+{"log":"172.20.0.2 - - [23/Mar/2019 14:50:10] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-23T14:50:10.771733384Z"}
+{"log":"172.20.0.2 - - [23/Mar/2019 14:50:13] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-23T14:50:13.461826596Z"}
+{"log":"172.20.0.2 - - [24/Mar/2019 06:05:02] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-24T06:05:02.83365011Z"}
+{"log":"172.20.0.2 - - [24/Mar/2019 06:05:05] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-24T06:05:05.591498653Z"}
+{"log":"172.20.0.2 - - [24/Mar/2019 06:52:54] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-24T06:52:54.714404911Z"}
+{"log":"172.20.0.2 - - [24/Mar/2019 18:41:00] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-24T18:41:00.927571442Z"}
+{"log":"172.20.0.2 - - [24/Mar/2019 18:41:03] \"GET /projects/restapi HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-24T18:41:03.648989154Z"}
+{"log":"172.20.0.2 - - [24/Mar/2019 18:45:24] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-24T18:45:24.618165693Z"}
+{"log":"172.20.0.2 - - [24/Mar/2019 18:48:59] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-24T18:48:59.415186691Z"}
+{"log":"172.20.0.2 - - [24/Mar/2019 18:49:00] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-24T18:49:00.259572418Z"}
+{"log":"172.20.0.2 - - [24/Mar/2019 18:49:01] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-24T18:49:01.952539677Z"}
+{"log":"172.20.0.2 - - [24/Mar/2019 18:49:54] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-24T18:49:54.398311926Z"}
+{"log":"172.20.0.2 - - [24/Mar/2019 18:49:56] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-24T18:49:56.621338327Z"}
+{"log":"172.20.0.2 - - [24/Mar/2019 18:49:58] \"GET /static/jred.svg HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-24T18:49:58.124563673Z"}
+{"log":"172.20.0.2 - - [24/Mar/2019 18:52:53] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-24T18:52:53.01815654Z"}
+{"log":"172.20.0.2 - - [26/Mar/2019 02:52:27] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-26T02:52:27.914992422Z"}
+{"log":"172.20.0.2 - - [26/Mar/2019 02:52:28] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-26T02:52:28.47212207Z"}
+{"log":"172.20.0.2 - - [26/Mar/2019 02:52:30] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-26T02:52:30.652375903Z"}
+{"log":"172.20.0.2 - - [26/Mar/2019 03:34:21] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-26T03:34:21.867879568Z"}
+{"log":"172.20.0.2 - - [26/Mar/2019 03:34:22] \"GET /projects/iotenviro HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-26T03:34:22.074389071Z"}
+{"log":"172.20.0.2 - - [26/Mar/2019 04:34:39] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-26T04:34:39.656453078Z"}
+{"log":"172.20.0.2 - - [26/Mar/2019 06:29:54] \"GET /static/jred.svg HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-26T06:29:54.968528969Z"}
+{"log":"172.20.0.2 - - [26/Mar/2019 06:29:56] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-26T06:29:56.268339886Z"}
+{"log":"172.20.0.2 - - [26/Mar/2019 11:22:01] \"GET /projects/iotenviro HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-26T11:22:01.570960408Z"}
+{"log":"172.20.0.2 - - [26/Mar/2019 12:42:42] \"GET /projects/iotenviro HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-26T12:42:42.175273272Z"}
+{"log":"172.20.0.2 - - [26/Mar/2019 14:37:20] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-26T14:37:20.496981874Z"}
+{"log":"172.20.0.2 - - [26/Mar/2019 14:37:23] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-26T14:37:23.322719261Z"}
+{"log":"172.20.0.2 - - [26/Mar/2019 22:50:05] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-26T22:50:05.89124436Z"}
+{"log":"172.20.0.2 - - [26/Mar/2019 22:50:06] \"GET /projects/iotenviro HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-26T22:50:06.703990768Z"}
+{"log":"172.20.0.2 - - [27/Mar/2019 00:51:10] \"GET /projects/iotenviro HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-27T00:51:10.99198094Z"}
+{"log":"172.20.0.2 - - [27/Mar/2019 01:53:55] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-27T01:53:55.943747218Z"}
+{"log":"172.20.0.2 - - [27/Mar/2019 01:53:58] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-27T01:53:58.5445315Z"}
+{"log":"172.20.0.2 - - [27/Mar/2019 01:59:47] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-27T01:59:47.54903907Z"}
+{"log":"172.20.0.2 - - [27/Mar/2019 10:44:17] \"GET /projects/iotenviro HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-27T10:44:17.528333295Z"}
+{"log":"172.20.0.2 - - [27/Mar/2019 19:25:08] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-27T19:25:08.995314215Z"}
+{"log":"172.20.0.2 - - [27/Mar/2019 19:25:11] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-27T19:25:11.70770341Z"}
+{"log":"172.20.0.2 - - [27/Mar/2019 19:50:55] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-27T19:50:55.1140157Z"}
+{"log":"172.20.0.2 - - [27/Mar/2019 19:50:56] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-27T19:50:56.1041733Z"}
+{"log":"172.20.0.2 - - [28/Mar/2019 01:22:36] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-28T01:22:36.069991844Z"}
+{"log":"172.20.0.2 - - [28/Mar/2019 15:22:03] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-28T15:22:03.794041497Z"}
+{"log":"172.20.0.2 - - [28/Mar/2019 15:22:04] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-28T15:22:04.731206877Z"}
+{"log":"172.20.0.2 - - [28/Mar/2019 15:22:06] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-28T15:22:06.538297834Z"}
+{"log":"172.20.0.2 - - [28/Mar/2019 18:34:06] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-28T18:34:06.286536591Z"}
+{"log":"172.20.0.2 - - [28/Mar/2019 18:34:09] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-28T18:34:09.09956226Z"}
+{"log":"172.20.0.2 - - [28/Mar/2019 19:48:06] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-28T19:48:06.422737846Z"}
+{"log":"172.20.0.2 - - [29/Mar/2019 02:10:16] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-29T02:10:16.576520742Z"}
+{"log":"172.20.0.2 - - [29/Mar/2019 02:10:18] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-29T02:10:18.29012323Z"}
+{"log":"172.20.0.2 - - [29/Mar/2019 03:12:40] \"GET /.well-known/assetlinks.json HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-29T03:12:40.127301579Z"}
+{"log":"172.20.0.2 - - [29/Mar/2019 04:51:28] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-29T04:51:28.318724463Z"}
+{"log":"172.20.0.2 - - [29/Mar/2019 04:51:28] \"GET /static/favicon.ico HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-29T04:51:28.508743698Z"}
+{"log":"172.20.0.2 - - [29/Mar/2019 08:25:40] \"GET /projects/iotenviro HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-29T08:25:40.029715238Z"}
+{"log":"172.20.0.2 - - [29/Mar/2019 09:15:48] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-29T09:15:48.663936173Z"}
+{"log":"172.20.0.2 - - [29/Mar/2019 12:16:38] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-29T12:16:38.31481461Z"}
+{"log":"172.20.0.2 - - [29/Mar/2019 12:16:39] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-29T12:16:39.017817109Z"}
+{"log":"172.20.0.2 - - [29/Mar/2019 13:17:22] \"GET /projects/iotenviro HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-29T13:17:22.240140711Z"}
+{"log":"172.20.0.2 - - [29/Mar/2019 17:48:48] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-29T17:48:48.309610561Z"}
+{"log":"172.20.0.2 - - [29/Mar/2019 17:48:48] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-29T17:48:48.48807033Z"}
+{"log":"172.20.0.2 - - [29/Mar/2019 19:29:28] \"GET /projects/iotenviro HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-29T19:29:28.054297692Z"}
+{"log":"172.20.0.2 - - [29/Mar/2019 22:41:52] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-29T22:41:52.979765549Z"}
+{"log":"172.20.0.2 - - [29/Mar/2019 22:41:55] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-29T22:41:55.714732076Z"}
+{"log":"172.20.0.2 - - [30/Mar/2019 03:26:47] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-30T03:26:47.327361059Z"}
+{"log":"172.20.0.2 - - [30/Mar/2019 05:57:10] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-30T05:57:10.47167045Z"}
+{"log":"172.20.0.2 - - [30/Mar/2019 05:57:12] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-30T05:57:12.143588471Z"}
+{"log":"172.20.0.2 - - [30/Mar/2019 05:57:12] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-30T05:57:12.310973696Z"}
+{"log":"172.20.0.2 - - [30/Mar/2019 06:17:11] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-30T06:17:11.828693216Z"}
+{"log":"172.20.0.2 - - [30/Mar/2019 10:09:07] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-30T10:09:07.258047196Z"}
+{"log":"172.20.0.2 - - [30/Mar/2019 14:50:45] \"GET /projects/iotenviro HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-30T14:50:45.062830478Z"}
+{"log":"172.20.0.2 - - [30/Mar/2019 16:10:57] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-30T16:10:57.816587379Z"}
+{"log":"172.20.0.2 - - [30/Mar/2019 16:31:05] \"GET /projects/iotenviro HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-30T16:31:05.505479537Z"}
+{"log":"172.20.0.2 - - [30/Mar/2019 16:31:13] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-30T16:31:13.00529547Z"}
+{"log":"172.20.0.2 - - [30/Mar/2019 17:11:09] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-30T17:11:09.445332004Z"}
+{"log":"172.20.0.2 - - [31/Mar/2019 02:32:57] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-31T02:32:57.099017968Z"}
+{"log":"172.20.0.2 - - [31/Mar/2019 02:32:57] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-31T02:32:57.695610558Z"}
+{"log":"172.20.0.2 - - [31/Mar/2019 02:32:59] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-31T02:32:59.909752085Z"}
+{"log":"172.20.0.2 - - [31/Mar/2019 04:08:16] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-31T04:08:16.262074938Z"}
+{"log":"172.20.0.2 - - [31/Mar/2019 06:11:11] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-31T06:11:11.262190452Z"}
+{"log":"172.20.0.2 - - [31/Mar/2019 08:26:07] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-31T08:26:07.495463792Z"}
+{"log":"172.20.0.2 - - [31/Mar/2019 13:58:06] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-31T13:58:06.002389522Z"}
+{"log":"172.20.0.2 - - [31/Mar/2019 13:58:06] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-31T13:58:06.870291115Z"}
+{"log":"172.20.0.2 - - [31/Mar/2019 13:58:08] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-31T13:58:08.935112922Z"}
+{"log":"172.20.0.2 - - [31/Mar/2019 14:03:56] \"GET /static/jred.svg HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-31T14:03:56.17713561Z"}
+{"log":"172.20.0.2 - - [31/Mar/2019 14:05:08] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-03-31T14:05:08.230392147Z"}
+{"log":"172.20.0.2 - - [31/Mar/2019 15:32:29] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-31T15:32:29.752394416Z"}
+{"log":"172.20.0.2 - - [31/Mar/2019 20:54:23] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-31T20:54:23.18397025Z"}
+{"log":"172.20.0.2 - - [31/Mar/2019 20:54:23] \"GET /static/favicon.ico HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-03-31T20:54:23.392377484Z"}
+{"log":"172.20.0.2 - - [01/Apr/2019 07:02:49] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-04-01T07:02:49.685573441Z"}
+{"log":"172.20.0.2 - - [01/Apr/2019 07:02:52] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-04-01T07:02:52.484339525Z"}
+{"log":"172.20.0.2 - - [01/Apr/2019 11:24:55] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-04-01T11:24:55.965567183Z"}
+{"log":"172.20.0.2 - - [01/Apr/2019 11:24:56] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-04-01T11:24:56.66557255Z"}
+{"log":"172.20.0.2 - - [01/Apr/2019 15:14:01] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-04-01T15:14:01.116836661Z"}
+{"log":"172.20.0.2 - - [01/Apr/2019 15:14:03] \"GET /WaVTZ/ HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-04-01T15:14:03.828767238Z"}
+{"log":"172.20.0.2 - - [01/Apr/2019 22:47:33] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-04-01T22:47:33.05414564Z"}
+{"log":"172.20.0.2 - - [01/Apr/2019 22:47:33] \"GET /static/favicon.ico HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-04-01T22:47:33.771504987Z"}
+{"log":"172.20.0.2 - - [02/Apr/2019 00:49:20] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-04-02T00:49:20.933316431Z"}
+{"log":"172.20.0.2 - - [02/Apr/2019 02:30:08] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-04-02T02:30:08.64936578Z"}
+{"log":"172.20.0.2 - - [02/Apr/2019 05:01:39] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-04-02T05:01:39.763591742Z"}
+{"log":"172.20.0.2 - - [02/Apr/2019 06:12:55] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-04-02T06:12:55.342079325Z"}
+{"log":"172.20.0.2 - - [02/Apr/2019 08:13:10] \"GET /projects/iotenviro HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-04-02T08:13:10.692897077Z"}
+{"log":"172.20.0.2 - - [02/Apr/2019 09:54:08] \"GET /about HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-04-02T09:54:08.165280715Z"}
+{"log":"172.20.0.2 - - [02/Apr/2019 10:25:01] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-04-02T10:25:01.648706061Z"}
+{"log":"172.20.0.2 - - [02/Apr/2019 10:25:04] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-04-02T10:25:04.346576048Z"}
+{"log":"172.20.0.2 - - [02/Apr/2019 11:14:54] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-04-02T11:14:54.507101709Z"}
+{"log":"172.20.0.2 - - [02/Apr/2019 11:14:55] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-04-02T11:14:55.572787681Z"}
+{"log":"172.20.0.2 - - [02/Apr/2019 15:45:40] \"GET /robots.txt HTTP/1.1\" 404 -\n","stream":"stderr","time":"2019-04-02T15:45:40.947368964Z"}
+{"log":"172.20.0.2 - - [02/Apr/2019 15:45:41] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-04-02T15:45:41.661133558Z"}
+{"log":"172.20.0.2 - - [02/Apr/2019 17:46:20] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-04-02T17:46:20.124083345Z"}
+{"log":"172.20.0.2 - - [02/Apr/2019 21:55:00] \"GET /projects/iotenviro HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-04-02T21:55:00.718864904Z"}
+{"log":"172.20.0.2 - - [02/Apr/2019 22:25:02] \"GET /projects/iotenviro HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-04-02T22:25:02.296206446Z"}
+{"log":"172.20.0.2 - - [03/Apr/2019 01:11:12] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-04-03T01:11:12.860995044Z"}
+{"log":"172.20.0.2 - - [03/Apr/2019 04:07:15] \"GET / HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-04-03T04:07:15.144329546Z"}
+{"log":"172.20.0.2 - - [03/Apr/2019 04:07:15] \"GET /static/favicon.ico HTTP/1.1\" 200 -\n","stream":"stderr","time":"2019-04-03T04:07:15.348791123Z"}
+{"log":" * Serving Flask app \"webpage\" (lazy loading)\n","stream":"stdout","time":"2019-04-03T09:42:14.678128851Z"}
+{"log":" * Environment: production\n","stream":"stdout","time":"2019-04-03T09:42:14.678412742Z"}
+{"log":"   WARNING: Do not use the development server in a production environment.\n","stream":"stdout","time":"2019-04-03T09:42:14.678660072Z"}
+{"log":"   Use a production WSGI server instead.\n","stream":"stdout","time":"2019-04-03T09:42:14.678860552Z"}
+{"log":" * Debug mode: on\n","stream":"stdout","time":"2019-04-03T09:42:14.679011453Z"}
+{"log":" * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)\n","stream":"stderr","time":"2019-04-03T09:42:14.699976636Z"}
+{"log":" * Restarting with stat\n","stream":"stderr","time":"2019-04-03T09:42:14.701173838Z"}
+{"log":" * Debugger is active!\n","stream":"stderr","time":"2019-04-03T09:42:14.920856332Z"}
+{"log":" * Debugger PIN: 915-106-356\n","stream":"stderr","time":"2019-04-03T09:42:14.931321155Z"}
+{"log":" * Serving Flask app \"webpage\" (lazy loading)\n","stream":"stdout","time":"2019-04-03T09:44:49.079599228Z"}
+{"log":" * Environment: production\n","stream":"stdout","time":"2019-04-03T09:44:49.080007352Z"}
+{"log":"   WARNING: Do not use the development server in a production environment.\n","stream":"stdout","time":"2019-04-03T09:44:49.08017526Z"}
+{"log":"   Use a production WSGI server instead.\n","stream":"stdout","time":"2019-04-03T09:44:49.080339961Z"}
+{"log":" * Debug mode: on\n","stream":"stdout","time":"2019-04-03T09:44:49.080502215Z"}
+{"log":" * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)\n","stream":"stderr","time":"2019-04-03T09:44:49.098026204Z"}
+{"log":" * Restarting with stat\n","stream":"stderr","time":"2019-04-03T09:44:49.099120699Z"}
+{"log":" * Debugger is active!\n","stream":"stderr","time":"2019-04-03T09:44:49.307196963Z"}
+{"log":" * Debugger PIN: 915-106-356\n","stream":"stderr","time":"2019-04-03T09:44:49.310263262Z"}
+{"log":" * Serving Flask app \"webpage\" (lazy loading)\n","stream":"stdout","time":"2019-04-03T09:54:19.288379523Z"}
+{"log":" * Environment: production\n","stream":"stdout","time":"2019-04-03T09:54:19.288956737Z"}
+{"log":"   WARNING: Do not use the development server in a production environment.\n","stream":"stdout","time":"2019-04-03T09:54:19.289320839Z"}
+{"log":"   Use a production WSGI server instead.\n","stream":"stdout","time":"2019-04-03T09:54:19.28965531Z"}
+{"log":" * Debug mode: on\n","stream":"stdout","time":"2019-04-03T09:54:19.289975873Z"}
+{"log":" * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)\n","stream":"stderr","time":"2019-04-03T09:54:19.307170246Z"}
+{"log":" * Restarting with stat\n","stream":"stderr","time":"2019-04-03T09:54:19.308687573Z"}
+{"log":" * Debugger is active!\n","stream":"stderr","time":"2019-04-03T09:54:19.526758387Z"}
+{"log":" * Debugger PIN: 915-106-356\n","stream":"stderr","time":"2019-04-03T09:54:19.530432941Z"}
+{"log":" * Serving Flask app \"webpage\" (lazy loading)\n","stream":"stdout","time":"2019-04-03T09:54:33.161267882Z"}
+{"log":" * Environment: production\n","stream":"stdout","time":"2019-04-03T09:54:33.161503642Z"}
+{"log":"   WARNING: Do not use the development server in a production environment.\n","stream":"stdout","time":"2019-04-03T09:54:33.161684251Z"}
+{"log":"   Use a production WSGI server instead.\n","stream":"stdout","time":"2019-04-03T09:54:33.161864299Z"}
+{"log":" * Debug mode: on\n","stream":"stdout","time":"2019-04-03T09:54:33.162015018Z"}
+{"log":" * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)\n","stream":"stderr","time":"2019-04-03T09:54:33.17827373Z"}
+{"log":" * Restarting with stat\n","stream":"stderr","time":"2019-04-03T09:54:33.179321705Z"}
+{"log":" * Debugger is active!\n","stream":"stderr","time":"2019-04-03T09:54:33.380467284Z"}
+{"log":" * Debugger PIN: 915-106-356\n","stream":"stderr","time":"2019-04-03T09:54:33.38348767Z"}
