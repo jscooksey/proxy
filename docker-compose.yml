@@ -11,6 +11,11 @@ services:
       - /etc/nginx/certs
       - /etc/nginx/vhost.d
       - /usr/share/nginx/html
+    logging:
+      driver: "json-file"
+      options:
+        max-size: 10m
+        max-file: 5
     networks:
       - jscnetwork
 
@@ -20,6 +25,11 @@ services:
       - nginx-proxy
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock:ro
+    logging:
+      driver: "json-file"
+      options:
+        max-size: 10m
+        max-file: 5
     depends_on:
       - nginx-proxy
     networks:
